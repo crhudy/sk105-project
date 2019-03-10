@@ -2,15 +2,14 @@ section {
 	width: 800px;
 	margin: 100px auto;
 }
-section h1,
-section p {
-	text-align: center;
-	color: #454545;
-}
 section h1 {
+	color: pink;
 	font: 32px 'Open Sans';
 	font-weight: bold;
+	text-align: center
 }
 section p {
+	color: #454545;
 	font: 16px 'Open Sans';
+	text-align: center;
 }
